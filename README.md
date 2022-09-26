@@ -64,7 +64,7 @@
   
   
 </table
-<h3>Given two classes of labelled examples, we are interested in finding a decision boundary resulting from an appropriate choice of support vectors.</h3>
+ <h3>Given two classes of labelled examples, we are interested in finding a decision boundary resulting from an appropriate choice of support vectors.</h3>
  
 <ul style="list-style-type:disc"> 
 <h3>Model</h3>
